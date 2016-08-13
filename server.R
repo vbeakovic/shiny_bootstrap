@@ -2,7 +2,7 @@ library(shiny)
 library(stringr)
 library(DT)
 
-
+# test
 # Define server logic required to draw a histogram
 shinyServer(function(session, input, output) {
         # Detect prediction activated
